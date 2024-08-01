@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87662386595",
+    "project_id": "stajtest-e0599",
+    "storage_bucket": "stajtest-e0599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87662386595:android:f31198220493e85c1b0e16",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4yoHH0DGhVednuRLbX2TXHhZH7sFgPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
